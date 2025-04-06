@@ -1,3 +1,6 @@
 # action-test-bed
 
-Test Automerge 4
+Test Changeset
+
+1. Second commit
+2. Third Commit
