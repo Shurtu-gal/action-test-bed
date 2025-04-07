@@ -1,3 +1,6 @@
 # action-test-bed
 
-Test Automerge 4
+Test Changeset
+
+1. Test author commit
+2. Change by maintainer
