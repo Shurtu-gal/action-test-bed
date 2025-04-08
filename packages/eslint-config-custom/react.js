@@ -147,7 +147,7 @@ module.exports = {
       "rules": {
         "no-undef": "off",
         "no-console": "off",
-        "prefer-arrow-callback": 0,
+        "prefer-arrow-callback": 1,
         "sonarjs/no-duplicate-string": 0,
         "security/detect-object-injection": 0
       }
