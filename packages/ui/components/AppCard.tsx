@@ -19,7 +19,7 @@ export const AppCard = ({isActive = false, name, description, badges, className,
   const protocols = badges.map(badge => badge.toLowerCase()).join(', ');
   if (protocols) ariaDescriptionParts.push(`uses the following protocols: ${protocols}`);
 
-  const ariaDescription = `This application, named ${name}, is ${ariaDescriptionParts.join(' and ')}.`;
+  const ariaDescription = `This application sample, named ${name}, is ${ariaDescriptionParts.join(' and ')}.`;
 
   return (
     <>
